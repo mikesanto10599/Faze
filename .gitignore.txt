@@ -3,4 +3,11 @@
 /Intermediate
 /Saved
 /StarterContent
-/Geometry
+
+*.sln
+
+*.sdf
+
+*.suo
+
+Content/StartContent
