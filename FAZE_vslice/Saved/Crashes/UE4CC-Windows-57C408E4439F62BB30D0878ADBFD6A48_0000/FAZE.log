@@ -1,0 +1,1089 @@
+﻿Log file open, 04/05/19 13:56:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FAZE
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.194446
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.071s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21.2/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Engine.ini]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Engine.ini]
+[2019.04.05-17.56.59:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Engine.ini]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Engine.ini]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.05-17.56.59:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Engine.ini]
+[2019.04.05-17.56.59:168][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Engine.ini]
+[2019.04.05-17.56.59:170][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.05-17.56.59:170][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.05-17.56.59:171][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.05-17.56.59:171][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.05-17.56.59:171][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.05-17.56.59:183][  0]LogHAL: Display: Platform has ~ 8 GB [8459030528 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.05-17.56.59:183][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.05-17.56.59:183][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.05-17.56.59:183][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.05-17.56.59:184][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.05-17.56.59:184][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Config/Windows/Engine.ini]
+[2019.04.05-17.56.59:184][  0]LogInit: Computer: LAPTOP-ECVDO3FE
+[2019.04.05-17.56.59:184][  0]LogInit: User: aero1
+[2019.04.05-17.56.59:184][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.05-17.56.59:184][  0]LogInit: High frequency timer resolution =2.437502 MHz
+[2019.04.05-17.56.59:184][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.05-17.56.59:184][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.05-17.56.59:184][  0]LogMemory: Process Physical Memory: 102.50 MB used, 102.50 MB peak
+[2019.04.05-17.56.59:184][  0]LogMemory: Process Virtual Memory: 84.59 MB used, 84.59 MB peak
+[2019.04.05-17.56.59:184][  0]LogMemory: Physical Memory: 4349.93 MB used,  3717.23 MB free, 8067.16 MB total
+[2019.04.05-17.56.59:184][  0]LogMemory: Virtual Memory: 4633.97 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.04.05-17.56.59:202][  0]LogInit: Using OS detected language (en-US).
+[2019.04.05-17.56.59:202][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.05-17.56.59:203][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.05-17.56.59:567][  0]LogStreaming: Display: Took  0.365s to InitEngineTextLocalization.
+[2019.04.05-17.56.59:567][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.05-17.56.59:598][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.05-17.56.59:598][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.05-17.56.59:794][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.05-17.56.59:794][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.05-17.56.59:842][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.04.05-17.56.59:842][  0]LogD3D11RHI:       4021/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.05-17.56.59:855][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.04.05-17.56.59:855][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.05-17.56.59:857][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.05-17.56.59:857][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.05-17.56.59:857][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.05-17.56.59:875][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.05-17.56.59:875][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.04.05-17.56.59:875][  0]LogWindows: EnumDisplayDevices:
+[2019.04.05-17.56.59:875][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.04.05-17.56.59:875][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.05-17.56.59:876][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.05-17.56.59:876][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.05-17.56.59:876][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.04.05-17.56.59:876][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.05-17.56.59:876][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.05-17.56.59:876][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.04.05-17.56.59:908][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.05-17.56.59:925][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.05-17.57.00:380][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.05-17.57.00:393][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.05-17.57.00:407][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.05-17.57.00:421][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.05-17.57.00:435][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.05-17.57.00:449][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.05-17.57.00:464][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.05-17.57.00:476][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.05-17.57.00:483][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-17.57.00:555][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.05-17.57.00:616][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.05-17.57.00:616][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.05-17.57.00:637][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.05-17.57.00:637][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.05-17.57.00:648][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.05-17.57.00:659][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.05-17.57.00:671][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.05-17.57.00:683][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.05-17.57.00:730][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.05-17.57.00:730][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.05-17.57.00:730][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.05-17.57.00:791][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Intermediate/Shaders/WorkingDirectory/7108/).
+[2019.04.05-17.57.00:792][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aero1/AppData/Local/Temp/UnrealShaderWorkingDir/995B36C14AE1147428C9698EDA7A9F40/'.
+[2019.04.05-17.57.00:794][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.05-17.57.00:794][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.05-17.57.00:794][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.05-17.57.01:358][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.05-17.57.01:414][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/aero1/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.05-17.57.01:414][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aero1/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.05-17.57.01:414][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Users/aero1/Desktop/COMP207/FAZE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.05-17.57.01:414][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.05-17.57.01:414][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Users/aero1/Desktop/COMP207/FAZE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.05-17.57.01:414][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.05-17.57.01:431][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.05-17.57.01:431][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.05-17.57.01:431][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.05-17.57.01:443][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aero1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.05-17.57.01:443][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.05-17.57.01:443][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.05-17.57.01:467][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.05-17.57.01:469][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.05-17.57.01:470][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.05-17.57.01:554][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2019.04.05-17.57.01:864][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.05-17.57.02:023][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.05-17.57.02:026][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.05-17.57.02:026][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.05-17.57.02:026][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.05-17.57.02:026][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.05-17.57.02:039][  0]LogNetVersion: FAZE 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2508019810)
+[2019.04.05-17.57.02:564][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.090564 seconds
+[2019.04.05-17.57.02:570][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.05-17.57.02:570][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.04.05-17.57.02:570][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.05-17.57.03:450][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.05-17.57.03:464][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.05-17.57.04:126][  0]SourceControl: Source control is disabled
+[2019.04.05-17.57.04:126][  0]SourceControl: Source control is disabled
+[2019.04.05-17.57.04:127][  0]SourceControl: Source control is disabled
+[2019.04.05-17.57.04:128][  0]SourceControl: Source control is disabled
+[2019.04.05-17.57.04:283][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.05-17.57.04:330][  0]LogOcInput: OculusInput pre-init called
+[2019.04.05-17.57.04:466][  0]LogEngine: Initializing Engine...
+[2019.04.05-17.57.04:467][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.05-17.57.04:468][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.05-17.57.04:468][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.05-17.57.04:468][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.05-17.57.04:468][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.05-17.57.04:712][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.05-17.57.04:727][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.05-17.57.04:768][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-17.57.04:807][  0]LogInit: FAudioDevice initialized.
+[2019.04.05-17.57.04:807][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.05-17.57.05:202][  0]LogDerivedDataCache: Saved boot cache 0.39s 71MB C:/Users/aero1/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.05-17.57.05:210][  0]LogInit: Texture streaming: Enabled
+[2019.04.05-17.57.05:228][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.05-17.57.05:277][  0]LogInit: Transaction tracking system initialized
+[2019.04.05-17.57.05:304][  0]BlueprintLog: New page: Editor Load
+[2019.04.05-17.57.05:382][  0]LocalizationService: Localization service is disabled
+[2019.04.05-17.57.05:834][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aero1/Desktop/COMP207/FAZE/Content/' took 0.02s
+[2019.04.05-17.57.05:834][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.05-17.57.05:834][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.05-17.57.05:834][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.05-17.57.05:834][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.05-17.57.05:834][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.05-17.57.05:835][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.05-17.57.05:835][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.05-17.57.05:976][  0]SourceControl: Source control is disabled
+[2019.04.05-17.57.05:976][  0]Cmd: MAP LOAD FILE="../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.05-17.57.05:977][  0]LightingResults: New page: Lighting Build
+[2019.04.05-17.57.05:980][  0]MapCheck: New page: Map Check
+[2019.04.05-17.57.05:980][  0]LightingResults: New page: Lighting Build
+[2019.04.05-17.57.06:637][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.05-17.57.06:644][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.05-17.57.06:671][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.05-17.57.06:671][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2019.04.05-17.57.06:672][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.696
+[2019.04.05-17.57.06:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-17.57.06:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-17.57.06:771][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-17.57.06:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-17.57.06:786][  0]LogCollectionManager: Loaded 0 collections in 0.002135 seconds
+[2019.04.05-17.57.06:802][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aero1/Desktop/COMP207/FAZE/Saved/Collections/' took 0.01s
+[2019.04.05-17.57.06:802][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aero1/Desktop/COMP207/FAZE/Content/Developers/aero1/Collections/' took 0.00s
+[2019.04.05-17.57.06:802][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aero1/Desktop/COMP207/FAZE/Content/Collections/' took 0.00s
+[2019.04.05-17.57.06:802][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.05-17.57.06:810][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2651 classes and 620 folders.
+[2019.04.05-17.57.06:818][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.05-17.57.06:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-17.57.06:867][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.05-17.57.06:872][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.04.05-17.57.06:954][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.05-17.57.06:956][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.05-17.57.06:961][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.05-17.57.07:051][  0]LogRenderer: Reallocating scene render targets to support 860x444 Format 10 NumSamples 1 (Frame:1).
+[2019.04.05-17.57.07:280][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.05-17.57.07:280][  0]LogLoad: (Engine Initialization) Total time: 9.78 seconds
+[2019.04.05-17.57.07:280][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.05-17.57.07:294][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.05-17.57.07:362][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.05-17.57.07:423][  0]LogRenderer: Reallocating scene render targets to support 860x464 Format 10 NumSamples 1 (Frame:2).
+[2019.04.05-17.57.07:423][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.05-17.57.07:657][  2]LogAssetRegistry: Asset discovery search completed in 6.1261 seconds
+[2019.04.05-17.57.07:660][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.05-17.57.07:660][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
+[2019.04.05-17.57.08:317][ 44]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.05-17.57.10:917][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-17.57.11:046][277]LogSlate: Window 'Sequencer' being destroyed
+[2019.04.05-17.57.11:054][277]LogSlate: Window 'Sequencer' being destroyed
+[2019.04.05-17.57.12:650][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-17.57.14:682][573]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-17.57.14:706][573]LogAssetEditorManager: Opening Asset editor for World /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1
+[2019.04.05-17.57.14:734][573]Cmd: MAP LOAD FILE="../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/FAZE_vert_slice_v1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.05-17.57.14:734][573]LightingResults: New page: Lighting Build
+[2019.04.05-17.57.14:734][573]LoadErrors: New page: Loading map: FAZE_vert_slice_v1.umap
+[2019.04.05-17.57.14:735][573]MapCheck: New page: Map Check
+[2019.04.05-17.57.14:735][573]LightingResults: New page: Lighting Build
+[2019.04.05-17.57.14:882][573]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.05-17.57.14:933][573]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.05-17.57.14:933][573]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2019.04.05-17.57.14:933][573]LogFileHelpers: Loading map 'FAZE_vert_slice_v1' took 0.201
+[2019.04.05-17.57.22:564][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.05-17.57.50:502][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.04.05-17.58.31:626][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-17.58.33:150][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-17.58.33:154][530]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1
+[2019.04.05-17.58.33:582][530]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.04.05-17.58.34:263][530]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.05-17.58.34:419][531]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.05-18.00.47:858][603]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.04.05-18.00.52:679][984]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.04.05-18.00.53:124][ 18]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.04.05-18.00.53:488][ 47]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2019.04.05-18.00.53:911][ 80]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2019.04.05-18.00.59:466][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.01.28:246][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.01.43:905][485]LogEditorTransaction: Undo Paste clipboard contents
+[2019.04.05-18.01.45:103][578]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1.EventGraph.K2Node_VariableSet_0 or K2Node_VariableSet /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1.EventGraph.K2Node_VariableSet_0
+[2019.04.05-18.02.19:879][542]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacterGood.FirstPersonCharacter
+[2019.04.05-18.06.44:550][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.06.44:919][449]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.06.44:942][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.06.44:942][449]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.05-18.06.44:959][449]LogPlayLevel: [PlayLevel] Compiling FAZE_vert_slice_v1 before play...
+[2019.04.05-18.06.45:168][449]LogPlayLevel: PlayLevel: Blueprint regeneration took 225 ms (1 blueprints)
+[2019.04.05-18.06.45:168][449]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:06:45 AM)
+[2019.04.05-18.06.45:181][449]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.06.45:222][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040560s)
+[2019.04.05-18.06.45:222][449]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.06.45:222][449]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2019.04.05-18.06.45:223][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.041658s)
+[2019.04.05-18.06.45:260][449]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.06.45:273][449]LogInit: FAudioDevice initialized.
+[2019.04.05-18.06.45:313][449]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.06.45:319][449]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.06.45
+[2019.04.05-18.06.45:340][449]LogWorld: Bringing up level for play took: 0.025410
+[2019.04.05-18.06.45:364][449]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.04.05-18.06.45:368][449]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 0.379
+[2019.04.05-18.06.45:369][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.06.48:967][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.06.48:967][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.06.49:011][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.06.49:011][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.06.49:046][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.06.49:069][786]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.04.05-18.06.51:639][ 32]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.04.05-18.06.52:837][133]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.05-18.06.56:751][468]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.05-18.06.57:367][519]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.04.05-18.06.58:274][598]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.05-18.07.00:185][760]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.05-18.07.00:296][769]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.04.05-18.07.02:851][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.07.02:958][989]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.07.02:978][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.07.02:978][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.07.02:979][989]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:07:02 AM)
+[2019.04.05-18.07.02:979][989]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.07.03:020][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041150s)
+[2019.04.05-18.07.03:021][989]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.07.03:021][989]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2019.04.05-18.07.03:021][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.042115s)
+[2019.04.05-18.07.03:059][989]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.07.03:071][989]LogInit: FAudioDevice initialized.
+[2019.04.05-18.07.03:102][989]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.07.03:106][989]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.07.03
+[2019.04.05-18.07.03:107][989]LogWorld: Bringing up level for play took: 0.004788
+[2019.04.05-18.07.03:124][989]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 0.135
+[2019.04.05-18.07.03:124][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.07.14:823][102]LogNet: Browse: /Game/FAZE_vert_slice_v1
+[2019.04.05-18.07.14:824][102]LogLoad: LoadMap: /Game/FAZE_vert_slice_v1
+[2019.04.05-18.07.14:864][102]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.07.14:905][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040613s)
+[2019.04.05-18.07.14:905][102]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.07.14:906][102]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.04.05-18.07.14:906][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.041462s)
+[2019.04.05-18.07.14:906][102]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.07.14:910][102]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.07.14
+[2019.04.05-18.07.14:911][102]LogWorld: Bringing up level for play took: 0.004608
+[2019.04.05-18.07.14:915][102]LogLoad: Took 0.091058 seconds to LoadMap(/Game/UEDPIE_0_FAZE_vert_slice_v1)
+[2019.04.05-18.07.21:669][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.07.21:670][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.07.21:709][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.07.21:710][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.07.21:747][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.07.21:774][755]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.04.05-18.07.23:143][888]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.04.05-18.07.48:486][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.07.48:648][721]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV
+[2019.04.05-18.07.48:789][721]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.04.05-18.07.49:324][721]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.04.05-18.07.49:350][721]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.04.05-18.07.49:387][721]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.05-18.07.49:387][721]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.05-18.07.49:387][721]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.05-18.07.49:401][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2019.04.05-18.07.49:403][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionParticleSubUV_0, compiling. 
+[2019.04.05-18.07.49:410][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.04.05-18.07.50:549][754]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.04.05-18.07.50:598][757]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.05-18.07.50:764][766]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.05-18.07.51:253][793]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.05-18.07.51:397][801]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.05-18.07.51:577][811]LogSlate: Window 'M_smoke_subUV' being destroyed
+[2019.04.05-18.07.51:584][811]LogSlate: Window 'M_smoke_subUV' being destroyed
+[2019.04.05-18.07.51:642][811]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.05-18.07.54:242][977]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/P_Fire.P_Fire
+[2019.04.05-18.07.54:461][977]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.05-18.07.54:461][977]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.05-18.07.54:461][977]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2019.04.05-18.07.54:549][977]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.05-18.07.54:602][977]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.05-18.07.54:880][977]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.05-18.07.55:048][977]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.05-18.07.55:456][991]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.05-18.07.56:286][ 36]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.05-18.07.57:593][ 83]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.05-18.07.57:613][ 84]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.05-18.07.58:378][124]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.05-18.07.59:361][174]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.05-18.08.00:710][243]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.05-18.08.01:932][306]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.05-18.08.02:293][325]LogSlate: Window 'P_Fire' being destroyed
+[2019.04.05-18.08.02:303][325]LogSlate: Window 'P_Fire' being destroyed
+[2019.04.05-18.08.02:303][325]LogCascade: Quitting Cascade. FXSystem=0x000002A011085580
+[2019.04.05-18.08.02:332][325]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.05-18.08.02:665][341]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.05-18.08.04:221][452]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.05-18.08.04:612][479]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.05-18.08.05:392][537]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.05-18.08.05:692][559]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.05-18.08.06:676][630]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.05-18.08.14:969][314]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (SpikeVol1)
+[2019.04.05-18.08.17:926][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.08.22:332][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.08.28:485][468]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (SpikeVol2)
+[2019.04.05-18.08.30:242][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.08.35:399][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.08.37:835][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.08.37:912][275]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.08.37:934][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.08.37:934][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.08.37:934][275]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:08:37 AM)
+[2019.04.05-18.08.37:934][275]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.08.37:977][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042025s)
+[2019.04.05-18.08.37:977][275]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.08.37:977][275]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2019.04.05-18.08.37:977][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.042807s)
+[2019.04.05-18.08.38:019][275]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.08.38:031][275]LogInit: FAudioDevice initialized.
+[2019.04.05-18.08.38:065][275]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.08.38:069][275]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.08.38
+[2019.04.05-18.08.38:070][275]LogWorld: Bringing up level for play took: 0.004631
+[2019.04.05-18.08.38:087][275]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 1.099
+[2019.04.05-18.08.38:088][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.09.00:163][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.09.00:163][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.09.00:208][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.09.00:209][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.09.00:247][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.09.00:269][433]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.05-18.09.04:005][792]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Spin_Block)
+[2019.04.05-18.09.06:493][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.09.08:407][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.09.08:424][139]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/StarterContent/Spin_Block.Spin_Block
+[2019.04.05-18.09.19:022][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.10.51:251][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Spin_Block" FILE="../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/StarterContent/Spin_Block.uasset" SILENT=true
+[2019.04.05-18.10.51:290][136]LogSavePackage: Moving '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Saved/Spin_Block27DCB973441D85C62A1F49AA669C1DAC.tmp' to '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/StarterContent/Spin_Block.uasset'
+[2019.04.05-18.10.53:273][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.10.55:966][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.11.00:333][785]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.11.00:352][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.11.00:353][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.11.00:353][785]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:11:00 AM)
+[2019.04.05-18.11.00:353][785]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.11.00:395][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042157s)
+[2019.04.05-18.11.00:396][785]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.11.00:396][785]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2019.04.05-18.11.00:396][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.043123s)
+[2019.04.05-18.11.00:435][785]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.11.00:448][785]LogInit: FAudioDevice initialized.
+[2019.04.05-18.11.00:481][785]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.11.00:486][785]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.11.00
+[2019.04.05-18.11.00:487][785]LogWorld: Bringing up level for play took: 0.004819
+[2019.04.05-18.11.00:502][785]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 -0.486
+[2019.04.05-18.11.00:503][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.11.06:251][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.11.06:251][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.11.06:292][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.11.06:292][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.11.06:329][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.11.06:352][330]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.05-18.11.08:768][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.11.08:874][566]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.11.08:895][566]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.11.08:896][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.11.08:896][566]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:11:08 AM)
+[2019.04.05-18.11.08:896][566]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.11.08:936][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040475s)
+[2019.04.05-18.11.08:937][566]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.11.08:937][566]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2019.04.05-18.11.08:937][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.041295s)
+[2019.04.05-18.11.08:973][566]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.11.08:985][566]LogInit: FAudioDevice initialized.
+[2019.04.05-18.11.09:019][566]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.11.09:023][566]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.11.09
+[2019.04.05-18.11.09:024][566]LogWorld: Bringing up level for play took: 0.004429
+[2019.04.05-18.11.09:040][566]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 0.052
+[2019.04.05-18.11.09:040][566]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.11.18:799][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.11.18:800][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.11.18:843][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.11.18:844][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.11.18:880][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.11.18:902][479]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.05-18.11.23:605][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.12.23:376][342]Cmd: TRANSACTION UNDO
+[2019.04.05-18.12.23:377][342]LogEditorTransaction: Undo Set Key Value
+[2019.04.05-18.12.25:415][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.04.05-18.12.28:045][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.12.32:589][839]Cmd: TRANSACTION UNDO
+[2019.04.05-18.12.32:589][839]LogEditorTransaction: Undo Rotate Actors
+[2019.04.05-18.12.35:091][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.13.10:426][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Spin_Block" FILE="../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/StarterContent/Spin_Block.uasset" SILENT=true
+[2019.04.05-18.13.10:458][ 48]LogSavePackage: Moving '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Saved/Spin_BlockE75E71B04260765EAABD769991F2B031.tmp' to '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/StarterContent/Spin_Block.uasset'
+[2019.04.05-18.13.11:377][106]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.13.11:398][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.13.11:398][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.13.11:399][106]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:13:11 AM)
+[2019.04.05-18.13.11:399][106]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.13.11:443][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043311s)
+[2019.04.05-18.13.11:443][106]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.13.11:443][106]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2019.04.05-18.13.11:443][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.044291s)
+[2019.04.05-18.13.11:483][106]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.13.11:496][106]LogInit: FAudioDevice initialized.
+[2019.04.05-18.13.11:529][106]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.13.11:534][106]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.13.11
+[2019.04.05-18.13.11:535][106]LogWorld: Bringing up level for play took: 0.004854
+[2019.04.05-18.13.11:551][106]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 0.562
+[2019.04.05-18.13.11:551][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.13.18:077][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.13.18:078][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.13.18:123][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.13.18:124][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.13.18:160][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.13.18:184][533]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.04.05-18.13.21:823][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.13.38:619][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Spin_Block" FILE="../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/StarterContent/Spin_Block.uasset" SILENT=true
+[2019.04.05-18.13.38:646][854]LogSavePackage: Moving '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Saved/Spin_Block8687B1EB4D141BE893FC48B0F8F07744.tmp' to '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/StarterContent/Spin_Block.uasset'
+[2019.04.05-18.13.40:788][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.13.40:811][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.13.40:811][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.13.40:812][ 26]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:13:40 AM)
+[2019.04.05-18.13.40:812][ 26]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.13.40:852][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041239s)
+[2019.04.05-18.13.40:852][ 26]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.13.40:853][ 26]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2019.04.05-18.13.40:853][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.042029s)
+[2019.04.05-18.13.40:890][ 26]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.13.40:903][ 26]LogInit: FAudioDevice initialized.
+[2019.04.05-18.13.40:934][ 26]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.13.40:939][ 26]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.13.40
+[2019.04.05-18.13.40:940][ 26]LogWorld: Bringing up level for play took: 0.004714
+[2019.04.05-18.13.40:956][ 26]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 -0.032
+[2019.04.05-18.13.40:957][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.13.47:966][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.13.47:967][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.13.48:011][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.13.48:012][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.13.48:048][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.13.48:071][692]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.04.05-18.13.53:194][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.14.12:256][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Spin_Block" FILE="../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/StarterContent/Spin_Block.uasset" SILENT=true
+[2019.04.05-18.14.12:380][242]LogSavePackage: Moving '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Saved/Spin_Block774279B74F886A03BCE286A74FBBCB2A.tmp' to '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/StarterContent/Spin_Block.uasset'
+[2019.04.05-18.14.21:101][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Spin_Block" FILE="../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/StarterContent/Spin_Block.uasset" SILENT=true
+[2019.04.05-18.14.21:131][696]LogSavePackage: Moving '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Saved/Spin_Block8F72FFF146DAF81351D48EA789EF0A17.tmp' to '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/StarterContent/Spin_Block.uasset'
+[2019.04.05-18.14.22:877][802]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.14.22:897][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.14.22:897][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.14.22:897][802]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:14:22 AM)
+[2019.04.05-18.14.22:897][802]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.14.22:939][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041522s)
+[2019.04.05-18.14.22:940][802]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.14.22:940][802]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2019.04.05-18.14.22:940][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.042555s)
+[2019.04.05-18.14.22:977][802]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.14.22:989][802]LogInit: FAudioDevice initialized.
+[2019.04.05-18.14.23:019][802]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.14.23:024][802]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.14.23
+[2019.04.05-18.14.23:025][802]LogWorld: Bringing up level for play took: 0.004735
+[2019.04.05-18.14.23:042][802]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 0.053
+[2019.04.05-18.14.23:042][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.14.32:684][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.14.32:686][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.14.32:729][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.14.32:730][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.14.32:766][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.14.32:784][498]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.05-18.14.45:022][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.15.38:904][696]LogSlate: Window 'Convert Matinee to Level Sequence Asset' being destroyed
+[2019.04.05-18.15.38:920][696]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0003 seconds. Added 15 classes and 2 folders.
+[2019.04.05-18.15.38:923][696]LogInit: Transaction tracking system initialized
+[2019.04.05-18.15.38:924][696]EditorErrors: New page: Matinee Initialization
+[2019.04.05-18.16.30:654][ 89]LogSlate: Window 'Sequencer' being destroyed
+[2019.04.05-18.16.30:655][ 89]LogSlate: Window 'Sequencer' being destroyed
+[2019.04.05-18.16.37:774][509]LogSlate: Window 'Message' being destroyed
+[2019.04.05-18.16.41:624][586]LogSlate: Window 'MatineeActor1*' being destroyed
+[2019.04.05-18.16.41:627][586]LogSlate: Window 'MatineeActor1*' being destroyed
+[2019.04.05-18.16.44:906][706]LogInit: Transaction tracking system initialized
+[2019.04.05-18.16.44:906][706]EditorErrors: New page: Matinee Initialization
+[2019.04.05-18.17.12:402][248]LogSlate: Window 'MatineeActor2*' being destroyed
+[2019.04.05-18.17.13:747][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.04.05-18.17.14:976][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.17.33:259][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.17.45:745][533]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/StarterContent/Spin_Block.Spin_Block
+[2019.04.05-18.17.53:824][ 13]LogSlate: Window 'Sequencer' being destroyed
+[2019.04.05-18.17.53:825][ 13]LogSlate: Window 'Sequencer' being destroyed
+[2019.04.05-18.18.26:309][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.18.27:236][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.04.05-18.18.36:438][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.18.48:966][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.19.00:728][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.19.07:955][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.20.00:325][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.20.07:621][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.20.08:079][820]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.20.18:714][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.20.31:760][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.20.40:674][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.20.56:028][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.21.05:013][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.21.17:897][145]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.21.22:372][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.21.32:124][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.21.34:676][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.21.53:742][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-18.21.58:048][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.22.21:589][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.22.32:016][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.22.43:617][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.23.05:928][735]LogSlate: Window 'Message' being destroyed
+[2019.04.05-18.23.05:933][735]LogSlate: Window 'MatineeActor2*' being destroyed
+[2019.04.05-18.23.05:937][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FAZE_vert_slice_v1" FILE="../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/FAZE_vert_slice_v1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.05-18.23.05:979][735]LogExit: Transaction tracking system shut down
+[2019.04.05-18.23.06:488][735]LogSavePackage: Moving '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Saved/FAZE_vert_slice_v1EA448FED425D420E84C6F7AD0FCEA825.tmp' to '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/FAZE_vert_slice_v1.umap'
+[2019.04.05-18.23.06:516][735]LogFileHelpers: Saving map 'FAZE_vert_slice_v1' took 0.581
+[2019.04.05-18.23.16:739][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.27.47:558][735]BlueprintLog: New page: Compile FAZE_vert_slice_v1
+[2019.04.05-18.27.47:765][735]LogExit: Transaction tracking system shut down
+[2019.04.05-18.27.48:551][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FAZE_vert_slice_v1" FILE="../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/FAZE_vert_slice_v1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.05-18.27.49:062][802]LogSavePackage: Moving '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Saved/FAZE_vert_slice_v14F269A9B4EFDC494122D6798DBD88665.tmp' to '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/FAZE_vert_slice_v1.umap'
+[2019.04.05-18.27.49:090][802]LogFileHelpers: Saving map 'FAZE_vert_slice_v1' took 0.540
+[2019.04.05-18.27.56:821][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.27.57:324][495]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.27.57:344][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.27.57:344][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.27.57:344][495]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:27:57 AM)
+[2019.04.05-18.27.57:345][495]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.27.57:389][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044008s)
+[2019.04.05-18.27.57:389][495]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.27.57:390][495]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2019.04.05-18.27.57:390][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.045039s)
+[2019.04.05-18.27.57:427][495]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.27.57:441][495]LogInit: FAudioDevice initialized.
+[2019.04.05-18.27.57:474][495]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.27.57:479][495]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.27.57
+[2019.04.05-18.27.57:480][495]LogWorld: Bringing up level for play took: 0.004549
+[2019.04.05-18.27.57:496][495]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 0.508
+[2019.04.05-18.27.57:497][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.28.24:360][ 28]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Glass.M_Glass missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.04.05-18.28.24:360][ 28]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.04.05-18.28.45:636][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.28.45:637][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.28.45:689][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.28.45:689][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.28.45:727][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.28.45:751][  4]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.04.05-18.28.47:743][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.29.59:562][533]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.05-18.30.01:018][559]LogSavePackage: Moving '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Saved/FirstPersonCharacterGood2A0C201645618A041007C89119B77920.tmp' to '../../../../../../../Users/aero1/Desktop/COMP207/FAZE/Content/FirstPersonBP/Blueprints/FirstPersonCharacterGood.uasset'
+[2019.04.05-18.30.02:530][692]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.30.02:549][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.30.02:549][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.30.02:549][692]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:30:02 AM)
+[2019.04.05-18.30.02:549][692]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.30.02:590][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041052s)
+[2019.04.05-18.30.02:591][692]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.30.02:591][692]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2019.04.05-18.30.02:591][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.041864s)
+[2019.04.05-18.30.02:632][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.30.02:658][692]LogInit: FAudioDevice initialized.
+[2019.04.05-18.30.02:692][692]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.30.02:696][692]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.30.02
+[2019.04.05-18.30.02:697][692]LogWorld: Bringing up level for play took: 0.004551
+[2019.04.05-18.30.02:713][692]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 -0.275
+[2019.04.05-18.30.02:713][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.30.04:846][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.30.04:846][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.30.04:889][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.30.04:889][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.30.04:926][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.30.04:949][887]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.04.05-18.30.07:861][157]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.04.05-18.30.09:206][264]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.04.05-18.30.11:266][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.30.14:648][741]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.05-18.30.19:677][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.30.19:780][174]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.30.19:801][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.30.19:801][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.30.19:801][174]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:30:19 AM)
+[2019.04.05-18.30.19:801][174]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.30.19:842][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040818s)
+[2019.04.05-18.30.19:843][174]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.30.19:843][174]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2019.04.05-18.30.19:843][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.041821s)
+[2019.04.05-18.30.19:881][174]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.30.19:892][174]LogInit: FAudioDevice initialized.
+[2019.04.05-18.30.19:924][174]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.30.19:928][174]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.30.19
+[2019.04.05-18.30.19:929][174]LogWorld: Bringing up level for play took: 0.004603
+[2019.04.05-18.30.19:945][174]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 0.957
+[2019.04.05-18.30.19:946][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.30.25:438][680]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Fire Damage
+[2019.04.05-18.30.30:637][154]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Fire Damage
+[2019.04.05-18.30.33:342][406]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] ice 
+[2019.04.05-18.30.36:432][689]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] ice 
+[2019.04.05-18.30.39:888][  1]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] ice 
+[2019.04.05-18.30.45:565][511]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] ice 
+[2019.04.05-18.30.50:057][918]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] ice 
+[2019.04.05-18.30.54:814][349]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] ice 
+[2019.04.05-18.30.57:477][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.30.57:477][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.30.57:524][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.30.57:525][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.30.57:562][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.30.57:585][593]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.04.05-18.31.00:465][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.31.00:516][871]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.31.00:539][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.31.00:539][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.31.00:539][871]PIE: New page: PIE session: FAZE_vert_slice_v1 (Apr 5, 2019, 10:31:00 AM)
+[2019.04.05-18.31.00:539][871]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FAZE_vert_slice_v1
+[2019.04.05-18.31.00:581][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041458s)
+[2019.04.05-18.31.00:581][871]LogAIModule: Creating AISystem for world FAZE_vert_slice_v1
+[2019.04.05-18.31.00:582][871]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2019.04.05-18.31.00:582][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1 to /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 (0.042404s)
+[2019.04.05-18.31.00:618][871]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.31.00:631][871]LogInit: FAudioDevice initialized.
+[2019.04.05-18.31.00:665][871]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.05-18.31.00:670][871]LogWorld: Bringing World /Game/UEDPIE_0_FAZE_vert_slice_v1.FAZE_vert_slice_v1 up for play (max tick rate 0) at 2019.04.05-14.31.00
+[2019.04.05-18.31.00:671][871]LogWorld: Bringing up level for play took: 0.005082
+[2019.04.05-18.31.00:687][871]PIE: Play in editor start time for /Game/UEDPIE_0_FAZE_vert_slice_v1 -0.301
+[2019.04.05-18.31.00:688][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.31.06:397][395]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Fire Damage
+[2019.04.05-18.31.11:306][847]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Fire Damage
+[2019.04.05-18.31.14:967][191]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Fire Damage
+[2019.04.05-18.31.19:198][579]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Fire Damage
+[2019.04.05-18.31.23:452][967]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] ice 
+[2019.04.05-18.31.27:306][313]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] ice 
+[2019.04.05-18.31.33:050][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.31.33:051][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.31.33:095][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.31.33:095][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel' has LevelScriptBlueprint '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1' with GeneratedClass '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1_C' with ClassGeneratedBy '/Game/FAZE_vert_slice_v1.FAZE_vert_slice_v1:PersistentLevel.FAZE_vert_slice_v1'
+[2019.04.05-18.31.33:132][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.31.33:157][831]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.04.05-18.31.34:682][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.31.44:529][953]LogUObjectBase: Warning: Object is not registered
+[2019.04.05-18.31.44:529][953]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.05-18.31.44:935][953]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.406 s
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: 
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: Stack: 
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe6d328304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe6d3381ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe6bc8bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe69aa769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe69a60917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe6e257c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe6e4a4393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe6e2b2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe6e288a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe6e27b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe9232dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe92320de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe923301eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe9231ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffeb1e26d41 USER32.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffeb1e26713 USER32.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffe92331746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ff780925546 UE4Editor.exe!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ff78093596c UE4Editor.exe!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ff7809359ea UE4Editor.exe!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ff7809448da UE4Editor.exe!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ff78094659a UE4Editor.exe!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffeb2283dc4 KERNEL32.DLL!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: [Callstack] 0x00007ffeb48a3691 ntdll.dll!UnknownFunction []
+[2019.04.05-18.31.44:935][953]LogOutputDevice: Error: 
+[2019.04.05-18.31.44:938][953]LogStats:                SubmitErrorReport -  0.000 s
