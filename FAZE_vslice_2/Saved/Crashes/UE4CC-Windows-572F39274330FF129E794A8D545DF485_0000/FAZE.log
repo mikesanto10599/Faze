@@ -1,0 +1,1604 @@
+﻿Log file open, 04/22/19 10:12:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FAZE
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.200584
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.075s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21.2/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.035s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Engine.ini]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Engine.ini]
+[2019.04.22-14.12.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Engine.ini]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Engine.ini]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.22-14.12.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Engine.ini]
+[2019.04.22-14.12.55:166][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Engine.ini]
+[2019.04.22-14.12.55:168][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.22-14.12.55:168][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.22-14.12.55:169][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.22-14.12.55:169][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.22-14.12.55:169][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.22-14.12.55:200][  0]LogHAL: Display: Platform has ~ 8 GB [8459030528 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.22-14.12.55:200][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.22-14.12.55:200][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.22-14.12.55:200][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.22-14.12.55:201][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.22-14.12.55:201][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Config/Windows/Engine.ini]
+[2019.04.22-14.12.55:202][  0]LogInit: Computer: LAPTOP-ECVDO3FE
+[2019.04.22-14.12.55:202][  0]LogInit: User: aero1
+[2019.04.22-14.12.55:202][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.22-14.12.55:202][  0]LogInit: High frequency timer resolution =2.437501 MHz
+[2019.04.22-14.12.55:202][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.22-14.12.55:202][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.22-14.12.55:202][  0]LogMemory: Process Physical Memory: 102.70 MB used, 102.70 MB peak
+[2019.04.22-14.12.55:202][  0]LogMemory: Process Virtual Memory: 84.81 MB used, 84.81 MB peak
+[2019.04.22-14.12.55:202][  0]LogMemory: Physical Memory: 4880.32 MB used,  3186.84 MB free, 8067.16 MB total
+[2019.04.22-14.12.55:202][  0]LogMemory: Virtual Memory: 4633.96 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.04.22-14.12.56:027][  0]LogInit: Using OS detected language (en-US).
+[2019.04.22-14.12.56:027][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.22-14.12.56:028][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.22-14.12.56:422][  0]LogStreaming: Display: Took  0.396s to InitEngineTextLocalization.
+[2019.04.22-14.12.56:422][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.22-14.12.56:453][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.22-14.12.56:453][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.22-14.12.56:644][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.22-14.12.56:644][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.22-14.12.56:696][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.04.22-14.12.56:696][  0]LogD3D11RHI:       4021/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.22-14.12.56:706][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.04.22-14.12.56:706][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.22-14.12.56:707][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.22-14.12.56:707][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.22-14.12.56:707][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.22-14.12.56:726][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.22-14.12.56:726][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.04.22-14.12.56:726][  0]LogWindows: EnumDisplayDevices:
+[2019.04.22-14.12.56:726][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.04.22-14.12.56:726][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.22-14.12.56:727][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.22-14.12.56:727][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.22-14.12.56:727][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.04.22-14.12.56:727][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.22-14.12.56:727][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.22-14.12.56:727][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.04.22-14.12.56:759][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.22-14.12.56:775][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.22-14.12.57:863][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.22-14.12.57:876][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.22-14.12.57:889][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.22-14.12.57:903][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.22-14.12.57:935][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.22-14.12.57:949][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.22-14.12.57:963][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.22-14.12.57:976][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.22-14.12.57:982][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:072][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:073][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:073][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:073][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:073][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:073][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:073][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-14.12.58:074][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.22-14.12.58:152][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.22-14.12.58:152][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.22-14.12.58:175][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.22-14.12.58:175][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.22-14.12.58:186][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.22-14.12.58:198][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.22-14.12.58:210][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.22-14.12.58:232][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.22-14.12.58:276][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.22-14.12.58:276][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.22-14.12.58:276][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.22-14.12.58:358][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../../Users/aero1/Desktop/FAZE_vslice_2/Intermediate/Shaders/WorkingDirectory/10368/).
+[2019.04.22-14.12.58:358][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aero1/AppData/Local/Temp/UnrealShaderWorkingDir/F9346CE548C08E32EB17A3BFD4E15513/'.
+[2019.04.22-14.12.58:360][  0]LogXGEController: Cleaning working directory: C:/Users/aero1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.22-14.12.58:361][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.22-14.12.58:361][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.22-14.12.58:361][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.22-14.13.00:709][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.22-14.13.00:776][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/aero1/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.22-14.13.00:776][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aero1/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.22-14.13.00:776][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Users/aero1/Desktop/FAZE_vslice_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.22-14.13.00:776][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.22-14.13.00:776][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Users/aero1/Desktop/FAZE_vslice_2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.22-14.13.00:776][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.22-14.13.00:791][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.22-14.13.00:791][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.22-14.13.00:791][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.22-14.13.00:805][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aero1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.22-14.13.00:805][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.22-14.13.00:805][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.22-14.13.00:829][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.22-14.13.00:830][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.22-14.13.00:831][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.22-14.13.01:304][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.04.22-14.13.01:628][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.22-14.13.01:812][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.22-14.13.01:815][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.22-14.13.01:815][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.22-14.13.01:815][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.22-14.13.01:816][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.22-14.13.01:894][  0]LogNetVersion: FAZE 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2508019810)
+[2019.04.22-14.13.02:735][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.110240 seconds
+[2019.04.22-14.13.02:741][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.22-14.13.02:741][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.22-14.13.02:741][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.22-14.13.28:261][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.22-14.13.28:274][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.22-14.13.29:398][  0]SourceControl: Source control is disabled
+[2019.04.22-14.13.29:398][  0]SourceControl: Source control is disabled
+[2019.04.22-14.13.29:399][  0]SourceControl: Source control is disabled
+[2019.04.22-14.13.29:400][  0]SourceControl: Source control is disabled
+[2019.04.22-14.13.29:671][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.22-14.13.29:737][  0]LogOcInput: OculusInput pre-init called
+[2019.04.22-14.13.29:903][  0]LogEngine: Initializing Engine...
+[2019.04.22-14.13.29:903][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.22-14.13.29:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.22-14.13.29:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.22-14.13.29:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.22-14.13.29:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.22-14.13.30:258][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.22-14.13.30:273][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.22-14.13.30:309][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-14.13.30:353][  0]LogInit: FAudioDevice initialized.
+[2019.04.22-14.13.30:353][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.22-14.13.30:516][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/aero1/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.22-14.13.30:529][  0]LogInit: Texture streaming: Enabled
+[2019.04.22-14.13.30:548][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.22-14.13.30:634][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={4D8A523C-4BA2-6D20-730B-7DA487620AA1}
+[2019.04.22-14.13.30:649][  0]LogInit: Transaction tracking system initialized
+[2019.04.22-14.13.30:675][  0]BlueprintLog: New page: Editor Load
+[2019.04.22-14.13.30:752][  0]LocalizationService: Localization service is disabled
+[2019.04.22-14.13.31:368][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aero1/Desktop/FAZE_vslice_2/Content/' took 0.02s
+[2019.04.22-14.13.31:368][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.22-14.13.31:368][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.22-14.13.31:369][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.22-14.13.31:369][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.22-14.13.31:369][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.22-14.13.31:369][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.22-14.13.31:369][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.22-14.13.32:019][  0]SourceControl: Source control is disabled
+[2019.04.22-14.13.32:019][  0]Cmd: MAP LOAD FILE="../../../../../../../Users/aero1/Desktop/FAZE_vslice_2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.22-14.13.32:053][  0]LightingResults: New page: Lighting Build
+[2019.04.22-14.13.32:056][  0]MapCheck: New page: Map Check
+[2019.04.22-14.13.32:056][  0]LightingResults: New page: Lighting Build
+[2019.04.22-14.13.36:542][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.22-14.13.36:551][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.22-14.13.36:577][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.22-14.13.36:578][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2019.04.22-14.13.36:578][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.558
+[2019.04.22-14.13.36:846][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.13.36:854][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.13.36:862][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.13.36:870][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.13.36:880][  0]LogCollectionManager: Loaded 0 collections in 0.001844 seconds
+[2019.04.22-14.13.36:896][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aero1/Desktop/FAZE_vslice_2/Saved/Collections/' took 0.01s
+[2019.04.22-14.13.36:896][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aero1/Desktop/FAZE_vslice_2/Content/Developers/aero1/Collections/' took 0.00s
+[2019.04.22-14.13.36:896][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aero1/Desktop/FAZE_vslice_2/Content/Collections/' took 0.00s
+[2019.04.22-14.13.36:896][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.22-14.13.36:905][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2651 classes and 620 folders.
+[2019.04.22-14.13.36:912][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.22-14.13.37:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:022][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:022][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:023][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:024][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:024][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:025][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:025][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:028][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-14.13.37:758][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.22-14.13.37:762][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.04.22-14.13.37:853][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.22-14.13.37:855][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.22-14.13.37:884][  0]LogSlate: Took 0.023840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.22-14.13.38:027][  0]LogRenderer: Reallocating scene render targets to support 856x472 Format 10 NumSamples 1 (Frame:1).
+[2019.04.22-14.13.38:231][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.22-14.13.38:231][  0]LogLoad: (Engine Initialization) Total time: 45.03 seconds
+[2019.04.22-14.13.38:231][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.22-14.13.38:246][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.22-14.13.38:324][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.22-14.13.38:394][  0]LogRenderer: Reallocating scene render targets to support 856x488 Format 10 NumSamples 1 (Frame:2).
+[2019.04.22-14.13.38:803][  2]LogAssetRegistry: Asset discovery search completed in 37.5221 seconds
+[2019.04.22-14.13.38:805][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.22-14.13.38:806][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000131 seconds (updated 0 objects)
+[2019.04.22-14.13.39:271][ 22]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.22-14.13.41:749][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-14.13.41:956][301]LogLinker: Warning: Can't resolve asset name
+[2019.04.22-14.13.42:581][347]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.22-14.13.43:527][448]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/aero1/Desktop/FAZE_vslice_2/Content/' took 5.27s
+[2019.04.22-14.13.47:065][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-14.14.14:068][207]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2019.04.22-14.14.14:068][207]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.04.22-14.14.14:308][207]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.04.22-14.14.14:308][207]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.04.22-14.14.14:530][207]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2019.04.22-14.14.14:530][207]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.04.22-14.14.15:221][207]LogAIModule: Creating AISystem for world Tutorial
+[2019.04.22-14.14.15:240][207]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Tutorial/Tutorial.Tutorial
+[2019.04.22-14.14.15:269][207]Cmd: MAP LOAD FILE="../../../../../../../Users/aero1/Desktop/FAZE_vslice_2/Content/Levels/Tutorial/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.22-14.14.15:269][207]LightingResults: New page: Lighting Build
+[2019.04.22-14.14.15:269][207]LoadErrors: New page: Loading map: Tutorial.umap
+[2019.04.22-14.14.15:270][207]MapCheck: New page: Map Check
+[2019.04.22-14.14.15:270][207]LightingResults: New page: Lighting Build
+[2019.04.22-14.14.15:395][207]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.22-14.14.15:452][207]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.22-14.14.15:457][207]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.344ms to complete.
+[2019.04.22-14.14.15:457][207]LogFileHelpers: Loading map 'Tutorial' took 0.189
+[2019.04.22-14.14.21:920][722]MapCheck: New page: Map Check
+[2019.04.22-14.14.21:939][722]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.22-14.14.21:939][722]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.22-14.14.24:589][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.22-14.14.24:801][722]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.22-14.14.24:801][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Hex_Tile, compiling. 
+[2019.04.22-14.14.24:836][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2019.04.22-14.14.24:927][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.04.22-14.14.24:966][722]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.22-14.14.24:966][722]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.22-14.14.24:966][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2019.04.22-14.14.25:135][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Hex_Tile_Pulse, compiling. 
+[2019.04.22-14.14.25:167][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Red, compiling. 
+[2019.04.22-14.14.25:330][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.04.22-14.14.25:503][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Chrome, compiling. 
+[2019.04.22-14.14.25:695][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2019.04.22-14.14.25:822][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Ice_Inst, compiling. 
+[2019.04.22-14.14.25:864][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2019.04.22-14.14.25:880][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2019.04.22-14.14.25:936][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2019.04.22-14.14.25:969][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Heat_Distortion, compiling. 
+[2019.04.22-14.14.25:977][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Panel, compiling. 
+[2019.04.22-14.14.26:011][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2019.04.22-14.14.26:069][722]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy TranslucentUnlitSpriteMaterial, compiling. 
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.22-14.14.27:320][722]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.22-14.14.27:320][722]TextureStreamingBuild: Display: Compiling optional shaders took 2.861 seconds.
+[2019.04.22-14.14.27:445][722]LogLevel: Display: Export Material TexCoord Scales took 0.125 seconds.
+[2019.04.22-14.14.27:489][722]TextureStreamingBuild: Display: Build Texture Streaming took 0.043 seconds.
+[2019.04.22-14.14.27:539][722]LogEditorBuildUtils: Build time 0:05
+[2019.04.22-14.14.31:079][996]MapCheck: New page: Map Check
+[2019.04.22-14.14.31:110][996]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.22-14.14.31:110][996]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.22-14.14.32:787][996]LightingResults: New page: Lighting Build - Apr 22, 2019, 6:14:32 AM
+[2019.04.22-14.14.32:835][996]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.22-14.14.32:929][996]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.22-14.14.32:939][996]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.22-14.14.34:944][996]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2019.04.22-14.14.34:946][996]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2019.04.22-14.14.39:963][996]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.22-14.14.39:963][996]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10368
+[2019.04.22-14.14.40:969][996]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.22-14.14.40:970][996]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.22-14.14.40:970][996]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.22-14.14.40:970][996]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.22-14.14.40:970][996]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.22-14.14.40:970][996]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.22-14.14.41:143][996]LogEditorBuildUtils: Build time 0:10
+[2019.04.22-14.14.43:424][ 36]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacterGood.FirstPersonCharacter
+[2019.04.22-14.14.44:316][ 36]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.04.22-14.14.46:135][ 36]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.22-14.14.46:291][ 37]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.22-14.14.50:307][293]Job is a success!
+[2019.04.22-14.14.50:380][294]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2019.04.22-14.14.50:380][294]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.22-14.14.50:380][294]LogVolumetricLightmapImport:      BrickData 835x5x5 = 0.7Mb
+[2019.04.22-14.14.50:380][294]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.22-14.14.50:380][294]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2019.04.22-14.14.50:380][294]LogVolumetricLightmapImport:          1: 4.8% covering 12.5% of volume
+[2019.04.22-14.14.50:380][294]LogVolumetricLightmapImport:          2: 94.6% covering 3.9% of volume
+[2019.04.22-14.14.52:099][294]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.04.22-14.14.52:099][294]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.04.22-14.14.52:099][294]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2019.04.22-14.14.52:099][294]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2019.04.22-14.14.52:099][294]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.04.22-14.14.52:099][294]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.04.22-14.14.52:372][294]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 512X64)
+[2019.04.22-14.14.52:372][294]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2019.04.22-14.14.52:372][294]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 512X1024)
+[2019.04.22-14.14.52:428][294]Lightmass on LAPTOP-ECVDO3FE: 9.31 sec total, 322 ms importing, 314 ms setup, 919 ms photons, 7.73 sec processing, 0 ms extra exporting [206/206 mappings]. Threads: 30.9 sec total, 12.5 sec processing.
+[2019.04.22-14.14.53:491][294]LogStaticLightingSystem: Illumination: 20.6 sec (1.58 sec encoding lightmaps, 264 ms encoding shadowmaps)
+[2019.04.22-14.14.53:491][294]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (0.1 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.04.22-14.14.53:491][294]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (0.2 MB streaming, 2.7 MB non-streaming), 3 textures
+[2019.04.22-14.14.58:984][294]DumpUnbuiltLightIteractions
+[2019.04.22-14.14.58:984][294]Lights with unbuilt interactions: 0
+[2019.04.22-14.14.58:984][294]
+[2019.04.22-14.14.58:984][294]Primitives with unbuilt interactions: 0
+[2019.04.22-14.14.59:059][295]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.22-14.14.59:059][295]MapCheck: New page: Tutorial - Apr 22, 2019, 6:14:59 AM
+[2019.04.22-14.14.59:061][295]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.595ms to complete.
+[2019.04.22-14.15.36:509][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-14.15.38:129][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.15.38:129][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-14.15.38:129][ 91]PIE: New page: PIE session: Tutorial (Apr 22, 2019, 6:15:38 AM)
+[2019.04.22-14.15.38:142][ 91]LogPlayLevel: Creating play world package: /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2019.04.22-14.15.38:179][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037403s)
+[2019.04.22-14.15.38:179][ 91]LogAIModule: Creating AISystem for world Tutorial
+[2019.04.22-14.15.38:180][ 91]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2019.04.22-14.15.38:180][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial/Tutorial.Tutorial to /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial (0.038542s)
+[2019.04.22-14.15.38:218][ 91]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-14.15.38:231][ 91]LogInit: FAudioDevice initialized.
+[2019.04.22-14.15.38:231][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-14.15.38:274][ 91]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.22-14.15.38:278][ 91]LogWorld: Bringing World /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2019.04.22-10.15.38
+[2019.04.22-14.15.38:515][ 91]LogWorld: Bringing up level for play took: 0.239195
+[2019.04.22-14.15.38:538][ 91]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.04.22-14.15.38:542][ 91]LogScript: Warning: Accessed None trying to read property StateIcon
+	FirstPersonCharacter_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacterGood.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0B9E
+[2019.04.22-14.15.38:542][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.15.38:543][ 91]PIE: Play in editor start time for /Game/Levels/Tutorial/UEDPIE_0_Tutorial 0.71
+[2019.04.22-14.15.38:550][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.15.44:777][536]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:777][536]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:779][536]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:779][536]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:799][537]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.086504 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2019.04.22-14.15.44:804][537]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:804][537]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:806][537]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:806][537]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:891][538]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:892][538]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:892][538]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:892][538]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:893][538]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:893][538]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:893][538]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:893][538]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:899][539]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:899][539]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:899][539]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:900][539]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:901][539]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:902][539]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:902][539]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:902][539]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:909][540]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:909][540]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:909][540]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:909][540]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:912][540]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:912][540]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:912][540]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:912][540]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:922][541]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:922][541]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:922][541]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:922][541]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:924][541]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:924][541]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:925][541]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:925][541]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:936][542]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:936][542]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:936][542]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:936][542]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:940][542]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:940][542]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:940][542]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:940][542]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:945][543]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:946][543]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:946][543]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:946][543]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:949][543]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:950][543]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:950][543]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:950][543]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:958][544]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_0
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:958][544]LogScript: Warning: Attempted to access FirstPersonCharacter_C_0 via property My Character, but FirstPersonCharacter_C_0 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_1
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:958][544]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:958][544]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:960][544]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:960][544]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:971][545]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:972][545]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:975][545]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:975][545]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:982][546]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_2
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.44:983][546]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property My Character, but FirstPersonCharacter_C_1 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_3
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:372][754]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property K2Node_DynamicCast_AsFirst_Person_Character11, but FirstPersonCharacter_C_1 is pending kill
+	Tutorial_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Tutorial_C_1
+	Function /Game/Levels/Tutorial/Tutorial.Tutorial_C:ExecuteUbergraph_Tutorial:02CC
+[2019.04.22-14.15.47:372][754]PIE: Error: Blueprint Runtime Error: "Attempted to access FirstPersonCharacter_C_1 via property K2Node_DynamicCast_AsFirst_Person_Character11, but FirstPersonCharacter_C_1 is pending kill". Blueprint:  Tutorial Function:  Execute Ubergraph Tutorial Graph:  EventGraph Node:  Set ForcedChange
+[2019.04.22-14.15.47:372][754]LogScript: Warning: Attempted to access FirstPersonCharacter_C_1 via property K2Node_DynamicCast_AsFirst_Person_Character11, but FirstPersonCharacter_C_1 is pending kill
+	Tutorial_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Tutorial_C_1
+	Function /Game/Levels/Tutorial/Tutorial.Tutorial_C:ExecuteUbergraph_Tutorial:02EF
+[2019.04.22-14.15.47:372][754]PIE: Error: Blueprint Runtime Error: "Attempted to access FirstPersonCharacter_C_1 via property K2Node_DynamicCast_AsFirst_Person_Character11, but FirstPersonCharacter_C_1 is pending kill". Blueprint:  Tutorial Function:  Execute Ubergraph Tutorial Graph:  EventGraph Node:  Set IceDamage
+[2019.04.22-14.15.47:790][791]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:790][791]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:792][791]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:792][791]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:799][792]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:799][792]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:805][792]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:805][792]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:811][793]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:811][793]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:813][793]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:814][793]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:823][794]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:824][794]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:826][794]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:826][794]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:837][795]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:837][795]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:839][795]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:839][795]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:846][796]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:846][796]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:853][796]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:853][796]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:859][797]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:859][797]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:861][797]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:861][797]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:872][798]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:872][798]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:875][798]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:875][798]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:883][799]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_4
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:884][799]LogScript: Warning: Attempted to access FirstPersonCharacter_C_2 via property My Character, but FirstPersonCharacter_C_2 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_5
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:994][808]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.47:994][808]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:000][808]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:000][808]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:007][809]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:007][809]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:009][809]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:009][809]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:019][810]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:019][810]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:023][810]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:023][810]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:028][811]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:028][811]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:034][811]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:034][811]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:041][812]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:041][812]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:043][812]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:043][812]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:053][813]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:053][813]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:056][813]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:056][813]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:063][814]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:063][814]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:070][814]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:070][814]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:075][815]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:076][815]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:078][815]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:078][815]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:088][816]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_6
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.48:088][816]LogScript: Warning: Attempted to access FirstPersonCharacter_C_3 via property My Character, but FirstPersonCharacter_C_3 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_7
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:177][905]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:177][905]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:179][905]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:179][905]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:187][906]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:187][906]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:189][906]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:190][906]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:200][907]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:201][907]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:205][907]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:205][907]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:210][908]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:210][908]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:212][908]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:213][908]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:222][909]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:223][909]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:225][909]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:225][909]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:235][910]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:235][910]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:239][910]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:239][910]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:244][911]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:244][911]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:249][911]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:249][911]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:257][912]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:257][912]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:260][912]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:260][912]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:270][913]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_8
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:270][913]LogScript: Warning: Attempted to access FirstPersonCharacter_C_4 via property My Character, but FirstPersonCharacter_C_4 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.State_Icon_C_9
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.15.49:292][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.15.49:366][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.15.49:399][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-14.15.49:399][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.15.49:435][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.15.49:446][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-14.15.49:529][916]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.04.22-14.16.33:295][288]LogSlate: Window 'Message Log' being destroyed
+[2019.04.22-14.16.33:302][288]LogSlate: Window 'Message Log' being destroyed
+[2019.04.22-14.16.38:471][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SpikeRoller2)
+[2019.04.22-14.16.40:355][878]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-14.16.41:699][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-14.16.41:706][937]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial
+[2019.04.22-14.17.57:111][ 66]BlueprintLog: New page: Compile Tutorial
+[2019.04.22-14.17.57:220][ 66]LogBlueprint: Error: [Compiler PersistentLevel.Tutorial] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2019.04.22-14.17.57:220][ 66]LogBlueprint: Error: [Compiler PersistentLevel.Tutorial] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2019.04.22-14.17.57:237][ 66]LogBlueprint: Error: [Compiler PersistentLevel.Tutorial] Variable node  Set ForcedChange  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.04.22-14.17.57:238][ 66]LogBlueprint: Error: [Compiler PersistentLevel.Tutorial] Variable node  Set IceDamage  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.04.22-14.17.57:459][ 66]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial] [0304.26] Compile of PersistentLevel.Tutorial failed. 4 Fatal Issue(s) 0 Warning(s) [in 347 ms] (/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial)
+[2019.04.22-14.18.03:117][566]BlueprintLog: New page: Compile Tutorial
+[2019.04.22-14.18.06:290][691]LogSavePackage: Moving '../../../../../../../Users/aero1/Desktop/FAZE_vslice_2/Saved/TutorialF327D9344031B38016BD8CB31080B718.tmp' to '../../../../../../../Users/aero1/Desktop/FAZE_vslice_2/Content/Levels/Tutorial/Tutorial.umap'
+[2019.04.22-14.18.06:325][691]LogFileHelpers: Saving map 'Tutorial' took 1.451
+[2019.04.22-14.18.08:781][883]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.22-14.18.08:806][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.18.08:806][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-14.18.08:806][883]PIE: New page: PIE session: Tutorial (Apr 22, 2019, 6:18:08 AM)
+[2019.04.22-14.18.08:807][883]LogPlayLevel: Creating play world package: /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2019.04.22-14.18.08:842][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035360s)
+[2019.04.22-14.18.08:843][883]LogAIModule: Creating AISystem for world Tutorial
+[2019.04.22-14.18.08:843][883]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2019.04.22-14.18.08:843][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial/Tutorial.Tutorial to /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial (0.036486s)
+[2019.04.22-14.18.08:884][883]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-14.18.08:897][883]LogInit: FAudioDevice initialized.
+[2019.04.22-14.18.08:928][883]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.22-14.18.08:931][883]LogWorld: Bringing World /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2019.04.22-10.18.08
+[2019.04.22-14.18.08:933][883]LogWorld: Bringing up level for play took: 0.003874
+[2019.04.22-14.18.08:947][883]LogScript: Warning: Accessed None trying to read property StateIcon
+	FirstPersonCharacter_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacterGood.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0B9E
+[2019.04.22-14.18.08:948][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.18.08:948][883]PIE: Play in editor start time for /Game/Levels/Tutorial/UEDPIE_0_Tutorial 1.115
+[2019.04.22-14.18.08:948][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.18.10:720][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.18.10:721][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.18.10:780][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-14.18.10:781][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.18.10:818][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.18.10:889][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.22-14.18.16:359][415]LogSlate: Window 'Message Log' being destroyed
+[2019.04.22-14.18.16:372][415]LogSlate: Window 'Message Log' being destroyed
+[2019.04.22-14.18.26:459][287]LogEditorTransaction: Undo Delete current selection
+[2019.04.22-14.18.53:579][218]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.22-14.19.43:991][493]BlueprintLog: New page: Compile Tutorial
+[2019.04.22-14.19.47:177][762]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.22-14.19.47:200][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.19.47:200][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-14.19.47:200][762]PIE: New page: PIE session: Tutorial (Apr 22, 2019, 6:19:47 AM)
+[2019.04.22-14.19.47:200][762]LogPlayLevel: Creating play world package: /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2019.04.22-14.19.47:239][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037892s)
+[2019.04.22-14.19.47:239][762]LogAIModule: Creating AISystem for world Tutorial
+[2019.04.22-14.19.47:239][762]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2019.04.22-14.19.47:239][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial/Tutorial.Tutorial to /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial (0.038831s)
+[2019.04.22-14.19.47:276][762]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-14.19.47:289][762]LogInit: FAudioDevice initialized.
+[2019.04.22-14.19.47:323][762]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.22-14.19.47:327][762]LogWorld: Bringing World /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2019.04.22-10.19.47
+[2019.04.22-14.19.47:328][762]LogWorld: Bringing up level for play took: 0.003632
+[2019.04.22-14.19.47:344][762]LogScript: Warning: Accessed None trying to read property StateIcon
+	FirstPersonCharacter_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacterGood.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0B9E
+[2019.04.22-14.19.47:344][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.19.47:344][762]LogScript: Warning: Accessed None trying to read property StateIcon
+	Tutorial_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Tutorial_C_3
+	Function /Game/Levels/Tutorial/Tutorial.Tutorial_C:ExecuteUbergraph_Tutorial:16DE
+[2019.04.22-14.19.47:344][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  Tutorial Function:  Execute Ubergraph Tutorial Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.19.47:344][762]PIE: Play in editor start time for /Game/Levels/Tutorial/UEDPIE_0_Tutorial -0.489
+[2019.04.22-14.19.47:345][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.19.48:274][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.19.48:274][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.19.48:335][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-14.19.48:335][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.19.48:372][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.19.48:414][850]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.22-14.19.53:830][255]LogSlate: Window 'Message Log' being destroyed
+[2019.04.22-14.19.53:842][255]LogSlate: Window 'Message Log' being destroyed
+[2019.04.22-14.20.07:225][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-14.20.08:368][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.20.08:368][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-14.20.08:368][519]PIE: New page: PIE session: Tutorial (Apr 22, 2019, 6:20:08 AM)
+[2019.04.22-14.20.08:369][519]LogPlayLevel: Creating play world package: /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2019.04.22-14.20.08:408][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039417s)
+[2019.04.22-14.20.08:409][519]LogAIModule: Creating AISystem for world Tutorial
+[2019.04.22-14.20.08:409][519]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2019.04.22-14.20.08:409][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial/Tutorial.Tutorial to /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial (0.040240s)
+[2019.04.22-14.20.08:449][519]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-14.20.08:462][519]LogInit: FAudioDevice initialized.
+[2019.04.22-14.20.08:462][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-14.20.08:493][519]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.22-14.20.08:497][519]LogWorld: Bringing World /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2019.04.22-10.20.08
+[2019.04.22-14.20.08:498][519]LogWorld: Bringing up level for play took: 0.003669
+[2019.04.22-14.20.08:514][519]LogScript: Warning: Accessed None trying to read property StateIcon
+	FirstPersonCharacter_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacterGood.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0B9E
+[2019.04.22-14.20.08:514][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.20.08:514][519]LogScript: Warning: Accessed None trying to read property StateIcon
+	Tutorial_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Tutorial_C_3
+	Function /Game/Levels/Tutorial/Tutorial.Tutorial_C:ExecuteUbergraph_Tutorial:16DE
+[2019.04.22-14.20.08:514][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  Tutorial Function:  Execute Ubergraph Tutorial Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.20.08:515][519]PIE: Play in editor start time for /Game/Levels/Tutorial/UEDPIE_0_Tutorial 0.681
+[2019.04.22-14.20.08:522][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.20.22:652][740]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:653][740]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:659][740]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:659][740]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:664][741]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:665][741]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:667][741]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:667][741]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:678][742]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:678][742]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:681][742]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:681][742]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:687][743]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:687][743]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:694][743]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:694][743]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:700][744]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:700][744]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:702][744]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:702][744]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:712][745]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:713][745]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:715][745]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:715][745]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:726][746]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:726][746]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:730][746]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:730][746]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:736][747]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:736][747]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:741][747]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:742][747]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:748][748]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_10
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:748][748]LogScript: Warning: Attempted to access FirstPersonCharacter_C_5 via property My Character, but FirstPersonCharacter_C_5 is pending kill
+	State_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.State_Icon_C_11
+	Function /Game/UI/State_Icon.State_Icon_C:Get_State_Image_Brush_0:003D
+[2019.04.22-14.20.22:964][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.20.22:964][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.20.23:008][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-14.20.23:008][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.20.23:046][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.20.23:057][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-14.20.23:089][768]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.22-14.20.48:545][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-14.22.45:522][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-14.22.52:725][720]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Information_Tab.Information_Tab
+[2019.04.22-14.22.56:641][878]LogSlate: Window 'Information_Tab' being destroyed
+[2019.04.22-14.22.56:649][878]LogSlate: Window 'Information_Tab' being destroyed
+[2019.04.22-14.22.58:096][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-14.22.58:276][ 11]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/State_Icon.State_Icon
+[2019.04.22-14.23.47:324][ 90]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2019.04.22-14.23.48:434][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-14.23.59:972][956]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.22-14.24.00:010][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.24.00:010][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-14.24.00:010][956]PIE: New page: PIE session: Tutorial (Apr 22, 2019, 6:24:00 AM)
+[2019.04.22-14.24.00:010][956]LogPlayLevel: Creating play world package: /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2019.04.22-14.24.00:050][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039341s)
+[2019.04.22-14.24.00:050][956]LogAIModule: Creating AISystem for world Tutorial
+[2019.04.22-14.24.00:051][956]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2019.04.22-14.24.00:051][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial/Tutorial.Tutorial to /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial (0.040462s)
+[2019.04.22-14.24.00:094][956]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-14.24.00:108][956]LogInit: FAudioDevice initialized.
+[2019.04.22-14.24.00:114][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.24.00:210][956]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.22-14.24.00:214][956]LogWorld: Bringing World /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2019.04.22-10.24.00
+[2019.04.22-14.24.00:217][956]LogWorld: Bringing up level for play took: 0.005646
+[2019.04.22-14.24.00:233][956]LogScript: Warning: Accessed None trying to read property StateIcon
+	FirstPersonCharacter_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacterGood.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0B9E
+[2019.04.22-14.24.00:234][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.24.00:234][956]LogScript: Warning: Accessed None trying to read property StateIcon
+	Tutorial_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Tutorial_C_3
+	Function /Game/Levels/Tutorial/Tutorial.Tutorial_C:ExecuteUbergraph_Tutorial:16DE
+[2019.04.22-14.24.00:234][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  Tutorial Function:  Execute Ubergraph Tutorial Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.24.00:245][956]PIE: Play in editor start time for /Game/Levels/Tutorial/UEDPIE_0_Tutorial 0.412
+[2019.04.22-14.24.00:246][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.24.00:275][956]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2019.04.22-14.24.03:120][121]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Glass.M_Glass missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2019.04.22-14.24.03:120][121]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.04.22-14.24.06:567][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.24.06:568][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.24.06:591][328]LogSlate: Window 'FAZE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.22-14.24.06:655][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-14.24.06:655][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.24.06:734][329]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.04.22-14.24.10:320][545]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.22-14.24.10:353][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.24.10:353][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-14.24.10:353][545]PIE: New page: PIE session: Tutorial (Apr 22, 2019, 6:24:10 AM)
+[2019.04.22-14.24.10:353][545]LogPlayLevel: Creating play world package: /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2019.04.22-14.24.10:389][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035699s)
+[2019.04.22-14.24.10:389][545]LogAIModule: Creating AISystem for world Tutorial
+[2019.04.22-14.24.10:389][545]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2019.04.22-14.24.10:390][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial/Tutorial.Tutorial to /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial (0.036491s)
+[2019.04.22-14.24.10:427][545]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-14.24.10:439][545]LogInit: FAudioDevice initialized.
+[2019.04.22-14.24.10:445][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.24.10:560][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.22-14.24.10:564][545]LogWorld: Bringing World /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2019.04.22-10.24.10
+[2019.04.22-14.24.10:565][545]LogWorld: Bringing up level for play took: 0.003560
+[2019.04.22-14.24.10:582][545]LogScript: Warning: Accessed None trying to read property StateIcon
+	FirstPersonCharacter_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacterGood.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0B9E
+[2019.04.22-14.24.10:583][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.24.10:583][545]LogScript: Warning: Accessed None trying to read property StateIcon
+	Tutorial_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Tutorial_C_3
+	Function /Game/Levels/Tutorial/Tutorial.Tutorial_C:ExecuteUbergraph_Tutorial:16DE
+[2019.04.22-14.24.10:583][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  Tutorial Function:  Execute Ubergraph Tutorial Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.24.10:595][545]PIE: Play in editor start time for /Game/Levels/Tutorial/UEDPIE_0_Tutorial 0.762
+[2019.04.22-14.24.10:596][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.24.32:431][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.24.32:431][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.24.32:462][640]LogSlate: Window 'FAZE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.22-14.24.32:499][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-14.24.32:500][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.24.32:565][641]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.04.22-14.26.09:913][617]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.04.22-14.26.11:197][663]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.22-14.26.11:228][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.26.11:228][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-14.26.11:228][663]PIE: New page: PIE session: Tutorial (Apr 22, 2019, 6:26:11 AM)
+[2019.04.22-14.26.11:228][663]LogPlayLevel: Creating play world package: /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2019.04.22-14.26.11:266][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036786s)
+[2019.04.22-14.26.11:267][663]LogAIModule: Creating AISystem for world Tutorial
+[2019.04.22-14.26.11:267][663]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2019.04.22-14.26.11:267][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial/Tutorial.Tutorial to /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial (0.037672s)
+[2019.04.22-14.26.11:308][663]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-14.26.11:321][663]LogInit: FAudioDevice initialized.
+[2019.04.22-14.26.11:326][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.26.11:471][663]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.22-14.26.11:474][663]LogWorld: Bringing World /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2019.04.22-10.26.11
+[2019.04.22-14.26.11:475][663]LogWorld: Bringing up level for play took: 0.003312
+[2019.04.22-14.26.11:491][663]LogScript: Warning: Accessed None trying to read property StateIcon
+	FirstPersonCharacter_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacterGood.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0AC2
+[2019.04.22-14.26.11:491][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.26.11:491][663]LogScript: Warning: Accessed None trying to read property StateIcon
+	Tutorial_C /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial:PersistentLevel.Tutorial_C_3
+	Function /Game/Levels/Tutorial/Tutorial.Tutorial_C:ExecuteUbergraph_Tutorial:16DE
+[2019.04.22-14.26.11:492][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StateIcon". Blueprint:  Tutorial Function:  Execute Ubergraph Tutorial Graph:  EventGraph Node:  Play Animation
+[2019.04.22-14.26.11:508][663]PIE: Play in editor start time for /Game/Levels/Tutorial/UEDPIE_0_Tutorial -0.325
+[2019.04.22-14.26.11:508][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.26.20:367][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.26.20:368][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-14.26.20:394][187]LogSlate: Window 'FAZE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.22-14.26.20:436][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-14.26.20:436][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/Levels/Tutorial/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2019.04.22-14.26.20:577][188]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.04.22-14.26.43:237][632]LogUObjectArray: Warning: Other object in slot
+[2019.04.22-14.26.43:237][632]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.22-14.26.43:956][632]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.719 s
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: 
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: Stack: 
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffab3858304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffab38681ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffab1e1bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffab0e7769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffab0e30917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffab4787c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffab49d4393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffab47e2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffab47b8a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffab47ab263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffaedaddc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffaedad0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffaedae01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffaedacca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffb0f806d41 USER32.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffb0f806713 USER32.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffaedae1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ff656a25546 UE4Editor.exe!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ff656a3596c UE4Editor.exe!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ff656a359ea UE4Editor.exe!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ff656a448da UE4Editor.exe!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ff656a4659a UE4Editor.exe!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffb12264034 KERNEL32.DLL!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: [Callstack] 0x00007ffb123b3691 ntdll.dll!UnknownFunction []
+[2019.04.22-14.26.43:956][632]LogOutputDevice: Error: 
+[2019.04.22-14.26.43:964][632]LogStats:                SubmitErrorReport -  0.000 s
